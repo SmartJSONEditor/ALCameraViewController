@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
   spec.name               = "ALCameraViewController"
   spec.version            = "3.0.3"
   spec.summary            = "A camera view controller with custom image picker and image cropping."
-  spec.source             = { :git => "https://github.com/SmartJSONEditor/ALCameraViewController.git", :tag => "swift5" }
+  spec.source             = { :git => "https://github.com/SmartJSONEditor/ALCameraViewController.git", :branch => "swift5" }
   spec.requires_arc       = true
   spec.platform           = :ios, "8.0"
   spec.license            = "MIT"
